@@ -1,0 +1,25 @@
+Visentini(2006)
+    * Es una disciplina que consiste en sacar datos corporativos a otra persona, sin que ésta se dé cuenta de que está revelando información sensible, y que normalmente no lo haría.
+
+Borghello(2009)
+    * La ingeniería social puede definirse como una acción o conducta social destinada a conseguir información de las personas cercanas a un sistema.
+
+En general
+    * Se centra en lograr la confianza de las personas para luego engañarlas y manipuarlas para el beneficio propio de quien la implementa.
+
+- QUÉ PUEDO HAVER CON UN POCO DE INFORMACION?
+
+    1. Nombre y Apellido
+    2. Dirección
+    3. Nro. de Teléfono
+    4. Correo electrónico
+    5. Recibo de luz/agua
+
+    ------------------------------------------
+
+    * Crear una identidad falsa
+    * Hackear su correo electrónico
+    * Hacer un préstamo
+    * Abusar del crédito
+    * Crear un perfil falso en las redes
+    * Exponerte a situaciones embarazosas
