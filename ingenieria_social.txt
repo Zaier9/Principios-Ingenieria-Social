@@ -7,7 +7,7 @@ Borghello(2009)
 En general
     * Se centra en lograr la confianza de las personas para luego engañarlas y manipuarlas para el beneficio propio de quien la implementa.
 
-- QUÉ PUEDO HAVER CON UN POCO DE INFORMACION?
+- QUÉ PUEDO HACER CON UN POCO DE INFORMACION?
 
     1. Nombre y Apellido
     2. Dirección
