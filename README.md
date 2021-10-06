@@ -18,4 +18,6 @@ Introduccion a los principios de la Ingenieria Social
 
     # 05.Principios de la ingeniería social según Kevin Mitnick y Robert Cialdini
 
-    # Principios de la ingeniería social a detalle
+    # 06.Principios de la ingeniería social a detalle
+
+    # 07.Perfil del Ingeniero/a Social
