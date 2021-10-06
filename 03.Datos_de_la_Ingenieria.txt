@@ -1,0 +1,8 @@
+DATOS DE LA INGENIERIA SOCIAL
+
+    * El 80% de los ataques informáticos se deben a errores relacionados com el factor humano y no a temas específicos de tecnología.
+    * Los incidentes de seguridad de la información son a menudo causados por fallas humanas, en lugar de técnicas.
+    * La ingeniería social es la técnica más eficaz para hacerse con los secretos celosamente protegidos, ya que no requiere de una sólida formación técnica, ni de conocimientos sobre protocolos y de sistemas operativos.
+    * Quienes practican la ingeniería social requieren solamente de astucia, paciencia y una buena dosis de psicología.
+    * La ingeniería social constituye un riesgo de seguridad por que se puede utilizar para eludir los sistemas de detección de intrusos, firewalls y sistemas de control de acceso.
+    * En la mayoría de los casos las personas (objetivos) no se dan cuenta de que están siendo víctimas de ataques de ingeniería social. (FBI, 2013; Hadnagy y Wilson, 2010).
