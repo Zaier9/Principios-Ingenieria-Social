@@ -1,0 +1,35 @@
+TIPOS DE INGENIERIA SOCIAL
+
+    * Basada en humanos:
+        - Consiste en recolectar información sensible mediante la interacción entre humanos
+    * Basada en Tecnología:
+        - Se lleca a cabo con la ayuda de computadoras
+
+Estrategia basada en Humanos
+    * Imitando se un usuario legítimo.
+    * Imitando ser una persona importante (alto rango).
+    * Imitando ser personal técnico.
+    * Espiar por encima de su hombro (shoulder surfing).
+    * “Dumpster diving”- Buscando en los depositos de basura.
+      Buscando en los contenedores de basura.
+        * Recibos de facturas, luz, agua, teléfono, cable u otros servicios.
+        * Información financiera.
+    
+    Revisión de desperdicios o basura
+
+        * Manuales de operación de sistemas.
+        * Reportes con información.
+        * Cuentas de usuarios y sus contraseñas.
+        * Formatos con menbretes.
+        * Papel con sellos.
+    Contramedidas para el Dumpster Diving
+        * Candado en los contenedores.
+        * Colocar portones.
+        * Colocar letreros “No pase”.
+        * Luces.
+        * Utilizar cámaras de seguridad.
+        * Tritutar documentos.
+        * Utilizar servicios de recolección.
+    * En persona.
+    * Organización Privada.
+
