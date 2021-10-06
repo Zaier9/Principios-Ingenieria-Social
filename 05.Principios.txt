@@ -1,0 +1,34 @@
+PRINCIPIOS DE LA INGENIERIA SOCIAL SEGUN KEVIN MITNICK Y ROBERT CIALDINI
+
+Mitnick fundamenta las estategias de ingeniería social en los siguientes postulados:
+    * Todos los seres humanos quieren ayudar
+    * El primer movimiento siempre de confianza hacia el otro
+    * No nos gusta decir no
+    * A todos nos gusta que nos alaben
+
+Principios de Kevin Mitnick:
+    * La ingeniería social utiliza la influencia y la persuasión para engañar a la gente
+    * El ingeniero social es capaz de aprovecharse de la gente para obtener información con o sin el uso de la tecnología
+    * Ud. puede tener la mejor tecnología, pero si no capacita al personal, no sirve de nada.
+
+Robert Cialdini(2009)
+    * Conocido mundialmente como el experto de la ciencia de la persuasión y cómo aplicarla éticamente en los negocios.
+
+Principios de Persuasión:
+    * Ha pasado toda su carrera realizando investigaciones científicas sobre lo que lleva a las persona a decir “Si” cuando ser les solicita algo.
+    * Toda su investigación se fundamenta en los 6 principios de la persuasión
+
+Los 6 principios de persuasión de Cialdini:
+    * El principio de escasez (Ofertas de tiempo limitado).
+    * El principio de prueba social (Ser parte de algo y ser aceptados).
+    * El principio de autoridad (Tener mayor autoridad = tener más influencia).
+    * El principio de simpatía (La simpatía induce a la confianza).
+    * El principio de consistencia y compromiso (Sentido de compromiso)
+    * El principio de reciprocidad (Necesidad de devolver el favor)
+
+Datos sobre los principios de persuasión de Cialdini:
+    * La persuasión es propiedad del atacante, NO de la víctima.
+    * Para que los principios de persuasión sean efectivos, debe darse en conjunto con un escenario bien planificado y teniendo conocimiento sobre la víctima.
+    * Se debe utilizar una combinación de principios para ser efectivos:
+        * Escenario + Ataque + Aplicación de principios = Éxito
+    * Entre más principios de persuasión se implementen existe más % de éxito.
