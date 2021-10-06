@@ -1,0 +1,30 @@
+PRINCIPIOS DE LA INGENIERIA SOCIAL AL DETALLE
+
+Reciprocidad:
+    * Cuando una persona nos ofrece algo, tendemos a ofrecerle algo también
+    * Por el contrario, si esa persona no nos trata con respeto, estaremos más susceptibles a pagarle con la misma moneda
+
+    -> La reciprocidad es un instinto social fácilmente manipulable
+
+Urgencia y escasez:
+    * Es un clásico entre los clásicos
+    * La mayoría de los ataques de ingeniería social consiguen que las personas caigan a través de la urgencia
+    * Todo aquello que es escaso tiene más valor.
+    * Es irracional. Sólo hace falta ver cómo reacciona la gente durante las rebajas o antes las ofertas limitadas.
+
+Consistencia:
+Si en algún momento, hemos dado nuestra palabra, tendemos más a cumplir con ello a que no hacerlo.
+    * Empezando por pequeñas acciones y continuando por otras más delicadas
+    * A pesar de que una de esas tareas pueda parecer rara, al haberse comprometido, la llevará a cabo junto al resto.
+    * De este modo el ingeniero social consigue manipular por consistencia
+
+Simpatía:
+Nuestra desconfianza se reduce cuando el interlocutor con el que hablamos nos cae bien o está alineado con nuestros intereses o valores.
+Estamos más predispuestos a dejarnos influir por personas que nos agradan, y menos por personas que nos producen rechazo.
+
+Autoridad:
+El uso de la autoridad juega un papel clave en la usurpación de identidad, ya sea de forma real (robo del perfil digital de una autoridad, por ejemplo un Director) o ficticia (clonado de perfiles o phishing)
+
+Validación social:
+Si recibimos un correo electrónico en el que se nos pide hacer una determinada acción, la cual es extraña, lo más seguro es que pensemos si llevarla a cabo o no.
+Al ser personas tan gregarias y en búsqueda permanente de la acción social, el sesgo de grupo es continuamente utilizado, también conocido como “presión grupal”, especialmente en el ámbito de la política para movilizar el voto.
