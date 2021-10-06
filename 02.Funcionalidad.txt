@@ -1,0 +1,29 @@
+POR QUE FUNCIONA LA INGENIERIA SOCIAL?
+
+Para llevar a cabo la ingeniería social, es necesario dos disciplinas en conjunto. La Ciencia del Cómputo y la Psicología Social.
+
+El Investigador Willi estipuló 3 principios para que la ingeniería social pudiera ser efectiva:
+
+    1. ATENCION SELECTIVA: ¿Cuánto tiempo puedes poner atención a un tema en particular?
+
+    2. DISTRACCION: En el momento en que nos distraemos y dejamos de prestarle atención a lo que estamos haciendo, es ahí cuando se convierte en una vulnerabilidad.
+
+    3. CONFIANZA: ¿Cuánta confianza das en un principio de haber conocido a alguien?
+
+
+GORILA INVISIBLE:
+
+En el experimento del gorila invisible, los investigadores notaron que cuando tenemos atención selectiva en un punto en particular nos olvidamos de lo que sucede alrededor. Esto da la entrada a uno de los ataques de la ingeniería social, que es, el ataque de sentido de urgencia, el cual también es uno de los mas explotados por los ingenieros sociales.
+
+
+¿POR QUE ES EFECTIVA LA INGENIERIA SOCIAL?
+
+En primer lugar porque se concentran en los aspectos técnicos, a los cuales la mayoría de personas no estamos capacitados.
+En segundo lugar porque no se le presta atención a la interacción de la maquina vs persona, aun sabiendo que es el usuario quien puede permitir dar ordenes al equipo y poder revelar datos aun no siendo consciente de hacerlo.
+Y por ultimo pero no menos importante, las personas somos el eslabón mas débil.
+
+
+¿POR QUE NOS CUESTA DECIR QUE NO?
+
+En la ingeniería Social hay otro experimento el cual es la prueba de la aceptación social. No nos gusta decir no porqué queremos ser parte del grupo y ser aceptados. Sin embargo esta conducta puede llevarnos a revelar información confidencial, así que debemos de aprender a decir no en ocasiones.
+Una estrategia de cuando te hagan una pregunta y tu no sabes que contestar, contesta con otra pregunta, esto te ayudara a estar mucho mas atento a los ataques de ingeniería social.
