@@ -2,7 +2,7 @@
 Introduccion a los principios de la Ingenieria Social
 
 
-    # ¿Qué es la ingenieria Social?
+    # 01.¿Qué es la ingenieria Social?
         * Visentini(2006)
         * Borghello(2009)
         * En general
@@ -10,8 +10,8 @@ Introduccion a los principios de la Ingenieria Social
     * Ciclo de vida de la ingeniería social.
     * Aspectos legales y éticos.
 
-    # ¿Por qué es tan efectiva la ingenieria social?
+    # 02.¿Por qué es tan efectiva la ingenieria social?
 
-    # Datos sobre la efectividad de la ingeniería social
+    # 03.Datos sobre la efectividad de la ingeniería social
 
-    # Metas de la ingeniería social
+    # 04.Metas de la ingeniería social
