@@ -7,7 +7,7 @@ Borghello(2009)
 En general
     * Se centra en lograr la confianza de las personas para luego engañarlas y manipuarlas para el beneficio propio de quien la implementa.
 
-- QUÉ PUEDO HAVER CON UN POCO DE INFORMACION?
+- QUÉ PUEDO HACER CON UN POCO DE INFORMACION?
 
     1. Nombre y Apellido
     2. Dirección
@@ -15,7 +15,6 @@ En general
     4. Correo electrónico
     5. Recibo de luz/agua
 
-    ------------------------------------------
 
     * Crear una identidad falsa
     * Hackear su correo electrónico
@@ -23,3 +22,30 @@ En general
     * Abusar del crédito
     * Crear un perfil falso en las redes
     * Exponerte a situaciones embarazosas
+
+    ------------------------------------------
+
+CICLO DE VIDA DE LA INGENIERIA
+    1.- Investigar
+    - Reunir información de la víctima.
+    - Determinar las debilidades de la víctima
+    - Elegir un vector de ciberataque adecuado
+    2.- Enganchar
+    - Atrapar la atención de la víctima
+    - Vender falsas promesas
+    - Retener y manipular a la víctima
+    3.-Actuar
+    - Mantener la historia
+    - Extraer información de la víctima
+    - Ejecutar el ciberataque para hacer uso de los datos obtenidos
+    4.-Salir
+    - Finalizar interacción con la víctima
+    - Eliminar todo rastro de malware
+    - Cubrir pistas y evidencias.
+
+Reglas del compromiso
+
+    - Cuando no es para un fin malicioso o hacer daño.
+    - Pruebas de penetración de red / autorizadas.
+    - Investigaciones
+    - Comunicaciones públicas (cursos, bromas en vivo no ilegales).
