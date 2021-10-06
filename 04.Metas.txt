@@ -1,0 +1,62 @@
+METAS DE LA INGENIERIA SOCIAL
+
+Motivos:
+    * Curiosidad
+    * Venganza
+    * Beneficio personal o económico
+    * Diversión 
+    * Desafío
+    * Mucho más
+
+Metas de la Ingeniería Social:
+ -> Las personas son engañadas para que revelen información confidencial.
+ -> Ésta información será utilizada por los delicuentes para estafar, realizar compras, enviar spam, etc.
+    * Acceso a información
+    * Autorización
+    * Confianza
+    * Dinero
+    * Reputación
+    * Cometer fraude
+    * Espionaje Industrial
+    * Robo de identidad
+    * Irrumpir en los sistemas/redes
+
+Personal vulnerable a ataques de ingeniería social en una empresa:
+    * Recepcionistas
+    * Vendedores
+    * Personal de nómina
+    * Recursos humanos
+    * Personal de finanzas
+    * Administración de oficinas
+
+    Posiciones atractivas para el ingeniero social:
+        Departamento de Recursos humanos: 
+        Información del empleado: 
+            * Estado actual: trabajando, de vacaciones, enfermo, de momento trabajando en un proyecto fuera de la empresa, etc.
+            * Departamento del empleado.
+            * Nombre de los colegas
+            * Superiores (si el ingeniero social quiere tomar la identidad de uno de ellos en un ataque)
+            * Condición laboral
+            * Información sobre el contrato y salario de un empleado
+
+    * Gerenciales
+    * “Newbies”
+    * “Temporeros”
+    * “Freelancers”
+    * Help Desk
+    Responsabilidades:
+        * Cuentas de usuarios (Creación, eliminación activación, desactivación)
+        * Cambiar contraseñas
+        *Instalar software (por razones de seguridad los empleados no deben tener permiso para hacer esto)
+        * Ofrecer ayuda
+        * Cómo escoger un buen objetivo
+    Una persona que:
+        * Trabaje en áreas donde tenga mucho contacto con el público
+        * Sea empleada en una compaía asociada con el objetivo
+        * Sea familiar/amigo del objetivo
+        * Cuente con amplia presencia en redes sociales
+        * Que exhiba la característica de ser muy sociable
+
+Abraham ​Maslow
+
+Formula en su teoría una jerarquía de necesidades humanas y defiende que conforme se satisfacen las necesidades más básicas (parte inferior de la pirámide), los seres humanos desarrollan necesidades y deseos más elevados (parte superior de la pirámide).
