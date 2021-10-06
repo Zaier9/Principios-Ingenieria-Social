@@ -1,0 +1,33 @@
+PERFIL DEL INGENIERO(A) SOCIAL
+
+Cualidades:
+    * Capacidad de socializar con facilidad
+    * Habilidad en el hablar
+    * Habilidad en el arte de persuasión
+    * Sonar convincente
+    * Aparente ser inofensivo
+    * Mantener un perfil bajo
+    * Sonreír siempre
+    * Tono de voz cómodo
+
+¿Cómo identificarlo?:
+    * Identificar un ingeniero social puede ser bastante difícil.
+    * Sin embargo hay personas que al lado de hackers y crackers, tienen un buen potencial para desarrollar un ataque de ingeniería social por su experiencia de trabajo.
+
+¿Quién puede atacar?:
+    * Ex-empleados molestos
+    * Infiltrados
+    * Empleados descontentos
+    * Visitantes
+
+Los siguientes puntos facilitan la identificación de un ingeniero social:
+    * Intentan presionar a sus víctimas mediante :
+        - “Name-dropping”
+        - Uso de autoridad o amenazas
+    * Presionan creando un sentido de gratitud en las víctimas (reciprocidad), siendo amable y cordial
+
+“Una víctima debe esta muy atenta a todo lo que se pregunta, independientemente de lo que se dijo antes o después, sin tener miedo por preguntar su derecho a saber una información delicada.”
+    * Favorecen la sensación de comodidad de la víctima.
+    * Provocan que la víctima contravenga derechos y políticas de seguridad, obteniendo la información deseada
+    * Aparentan ser confiables a otros:
+        > Incluyen información que han conseguido antes, mientras atacan a otra persona.
