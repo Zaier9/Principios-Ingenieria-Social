@@ -1,0 +1,16 @@
+Estrategias y respuestas a la elicitación
+
+Cómo evitar las técnicas de elicitación:
+
+    * Nunca hay que dar información a personas que no están autorizadas a conocerla, incluyendo familia y amigos cercanos.
+    * Contestar con información que sea pública como información que aparezca en la prensa.
+    Ignorar las preguntas y cambiar de tema
+    * Responder con una pregunta
+    * Responder preguntado ¿por qué me haces esa pregunta?
+    * Dar una respuesta mediocre
+    * Decir que no conoces la respuesta, tú no sabes nada de ese tema.
+    * Manifestar que no puedes discutir sobre el tema
+
+Cómo implementar estás técnicas de elicitación en ataques de ingenieria social?
+
+    * Un punto importante es mantener el control de nuestras emociones en todo momento y cuando presintamos que la pregunta es insistente para extraer cierta información de nosotros o alguien mas presionar “Esc” like Iron man

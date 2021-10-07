@@ -37,3 +37,5 @@ Introduccion a los principios de la Ingenieria Social
     # 1.4.Ejemplos de la ingenieria social (Vishing, Fake News, Tailgating, Piggybacking)
 
     # 1.5.Elicitación
+
+    # 1.6.Estrategias y respuestas a la elicitacion
