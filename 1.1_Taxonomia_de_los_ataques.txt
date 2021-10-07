@@ -1,0 +1,31 @@
+Fase 1: Selección de la Víctima
+    * Se busca por debilidades en el personal de la organización:
+    * Help Desk
+    * Soporte Técnico
+    * Recepción
+    * Soporte administrativo
+
+Fase 2: Recopilación de inteligencia
+Fuentes de información primaria:
+    * Basurero
+    * Páginas web
+    * Ex-empleados
+    * Contratistas
+    * Vendedores
+    * Socios estratégicos
+      La base para la siguiente fase.
+
+Fase 3: El ataque
+Basado en rutas de persuación:
+    * Autoridad
+    * Similitud
+    * Reciprocidad
+    * Compromiso y consistencia
+      Usa la emoción como una forma de distracción.
+
+Fase 4: Obtener la información
+    * El atacante obtiene la información necesaria de los sistemas de la empresa
+    * Diseña el plan de ataque informático
+    * Ejecuta el plan
+    * Borra las huellas
+    * Prepara el informe
