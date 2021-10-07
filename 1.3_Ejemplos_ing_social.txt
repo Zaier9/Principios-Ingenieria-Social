@@ -1,0 +1,25 @@
+Pretexto - Pretexting
+
+    * El atacante simula situaciones ficticias para obtener información personal, sensible o privilegiada y utilizarla con fines delictivos.
+    * El pretextan a menudo implica investigar el objetivo de ataque.
+    * El objetivo principal del actor de la amenaza es ganar la confianza del objetivo y explotarlo atraves de una llamada telefónica o en persona.
+
+Sextorsión
+
+    * Este ataque de ingeniería social consiste en chantajear a la víctima para que envíe dinero al ingeniero social a cambio de no distribuir por internet imágenes o videos comprometedores. (FYI Only).
+    * En ocasiones dispone de dicha información comprometida, pero en muchas ocasiones es mentira o es un montaje.
+
+Shoulder surfing
+
+    * Consiste en espiar físicamente a las víctimas para conseguir información confidencial como las credenciales de acceso a un sistema, equipo, plataforma, etc.
+    (politica de escritorio limpio)
+
+Dumpster Diving
+
+    * Este ataque de Ingeniería social consiste en explorar la basura con el objetivo de buscar información valiosa.
+    * Muchas veces, las personas suelen tirar a la papelera documentos importantes sobre sí mismos o sobre la empresa en la que trabajan.
+
+Quid Pro Quo “Una cosa por otra”
+
+    * En este tipo de estafa se tienta a los usuarios con ganar algo, como premios o descuentos en productos costosos, pero solo una vez que hayan completado un formulario en el cual se solicita una gran cantidad de información personal.
+    * Todos los datos recopilados se usan para el robo de identidad.
