@@ -1,0 +1,15 @@
+TIPOS DE INGENIERIA SOCIAL: BASADA EN TECNOLOGIA
+
+Estrategias basas en tecnología:
+    * Email con malware
+    * Spam (Correo no deseado)
+    * Cadena de cartas (Chain letters)
+    * Emails de engaño (hoaxes)
+    * “Phishing”
+    * Instalando un keylogger (software(Ejecutable) || hardware (Rubber Ducky))
+
+
+**Rubber Ducky **
+Disponen de una CPU pequeña de 60 MHz y 32 bits. Una CPU se compone de la ALU (Unidad Aritmético Lógica) capaz de realizar operaciones con bits, y de una CU (Unidad de Control), capaz de controlar el flujo de entrada y salida de datos. Por lo tanto, ambos componentes del hardware permiten que se ejecuten de forma automática los scripts, siendo la CPU del pendrive quien realiza las operaciones, en lugar del ordenador, como ocurre con los dispositivos de almacenamiento comunes.
+En cualquier pendrive, podemos programar un script que copie archivos desde el ordenador al pendrive, o los elimine y viceversa. Para ejecutar los scripts en los dispositivos de almacenamiento USB condicionales, tenemos que conectarlos a un ordenador y hacer doble click sobre el archivo. Sin embargo, los Rubber Ducky son capaces de ejecutar estos scripts tan solo recibiendo corriente, es decir, conectarlos a un dispositivo en cuestión y automáticamente se ejecutarán los scripts que haya en su interior. En conclusión, cualquiera que tenga uno de estos dispositivos podría copiar archivos de nuestro ordenador al pendrive de forma automática, solo conectándolo a un puerto USB.
+
