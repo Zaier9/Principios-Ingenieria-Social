@@ -1,0 +1,29 @@
+Qué son los Deepfake y sus tipos
+
+Origen
+Nace de la unión de los conceptos:
+
+    * El deep learning, como se conoce al aprendizaje profundo de sistemas de inteligencia artificial
+    * La palabra fake, falso.
+    * Se indica qué la palabra “Deepfake” se acuñó en un foro de Reddit (2017), cuando se hicieron virales unos videos de alto contenido sexual de algunas celebridades de USA.
+
+Qué es?
+
+    * Un Deepfake es un video, foto, o una grabación en audio que parece real pero que ha sido manipulada con inteligencia artificial.
+    * Los Deepfakees son vídeos/audio manipulados para hacer creer a los usuarios que los ven/escuchan a una determinada persona, tanto si es anónima como si es personaje público, realiza declaraciones o acciones que nunca ocurrieron.
+
+Cómo funciona la tecnología de Deepfake?
+
+Existen diferentes algoritmos para crear DeepFakes, pero todos emplean inteligencia artificial, más especialmente, aprendizaje profundo (deep learning), que es una subdisciplina del aprendizaje automático (machine learning).
+
+    * Primer paso para entrenar al codificador automático. Cada codificador automático es entrenado para un rostro específico.
+    * Después de entrenar con éxito los codificadores automáticos, los decodificadores se intercambian para que el rostro de la primera persona reproduzca el facial, expresiones de la segunda persona y viceversa.
+
+Tipos
+
+Modalidades del Deepfake
+
+    * Deepface: se trata de suponer el rostro de una persona en la otra y falsificar sus gestos.
+    * En algunos casos, el resultado es tan realista que resulta muy difícil identificar el engaño o fraude.
+    * Deepvoice: en este otro caso se trataría de unir frases y palabras sueltas utilizadas por una persona para crear un discurso.
+    * Incluso es capaz de clonar la voz original a partir de estos fragmentos

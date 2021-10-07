@@ -40,4 +40,6 @@ Introduccion a los principios de la Ingenieria Social
 
     # 1.6.Estrategias y respuestas a la elicitacion
 
-    # 1.7.Que es el Pretexting y cual es su proceso. 
+    # 1.7.Que es el Pretexting y cual es su proceso
+
+    # 1.8.Que son los Deepfake y sus tipos
