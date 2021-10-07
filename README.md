@@ -32,4 +32,6 @@ Introduccion a los principios de la Ingenieria Social
 
     # 1.2.Baiting y Phishing
 
-    # 1.3.Ejemplos de la ingenieria social
+    # 1.3.Ejemplos de la ingenieria social (Pretexting, Sextortion, Dumpster Diving, QuidPro Quo)
+
+    # 1.4.Ejemplos de la ingenieria social (Vishing, Fake News, Tailgating, Piggybacking)

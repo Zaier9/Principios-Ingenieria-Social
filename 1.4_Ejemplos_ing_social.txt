@@ -1,0 +1,24 @@
+(Vishing, Fake News, Tailgating, Piggybacking)
+
+Vishing
+
+    * La palabra ‘Visihing’ es una combinación de ‘Voz’ y ‘Pishing’.
+    * La suplantación de identidad consiste en utilizar el engaño para que una determinada persona revele información personal o confidencial propia o de su organización.
+    * El modus operandi de Vishing más común es el envío de correos electrónicos que solicitan que se llame a un número de teléfono, en el que aparece un contestador automático pidiendo al usuario información confidencial.
+
+Fake News
+
+    * Pueden buscar este tipo de ganchos para hacerse viral y que lleguen a muchos usuarios.
+    * Posteriormente esos enlaces, artículos falsos, pueden tener contenido malicioso, invitar a descargar software que ha sido modificado por terceros o recopilar datos de alguna manera.
+
+Tailgating
+
+    * El tailgating se define como la práctica de obtener acceso no autorizado a un área restringida (como oficinas o centros de datos) mediante el engaño o descuido de una persona que si cuenta con la autorización correspondiente.
+    * Ejemplo una empresa a la que se accede a través de una tarjeta RFID
+        * El atacante espera a que la víctima esté entrando para acercarse rápidamente y decir que se ha olvidado su tarjeta dentro
+    * La persona que abre la puerta no sabe que lo están siguiendo
+
+Piggybacking
+
+    * Es cuando una persona abre la puerta utilizando sus credenciales y te deja pasar sin que TÚ utilices tus credenciales.
+    * La persona que abre la puerta sabe que los están siguiendo.
