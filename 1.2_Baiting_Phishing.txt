@@ -1,0 +1,13 @@
+Carnada / Baiting
+
+* El cibercriminal puede dejar un dispositivo, como una memoria USB infectado con un software malicioso a la vista en un espacio público.
+* Alguien recogerá ese dispositivo y lo conectará a su equipo para ver qué contiene.
+* En ese momento, el software malicioso se introducirá en el equipo.
+
+Ejemplo: USB Rubber ducky, herramienta para cargar payloads que ejecutan funciones diversas.
+
+
+Phishing
+
+El Phishing es un método que los ciberdelincuentes usan para engañar y conseguir que se revele información personal, como contraseñas, datos de tarjetas de crédito o de la seguridad social y números de cuentas bancarias, entre otros.
+Obtienen esta información mediante el envío de correos electrónicos fraudulentos o dirigiendo a la persona a un sitio web falso.
