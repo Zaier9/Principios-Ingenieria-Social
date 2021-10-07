@@ -49,3 +49,5 @@ Introduccion a los principios de la Ingenieria Social
     # 2.0.Retos de los procesos de investigacion forense en Deepfake
 
     # 2.1.Medidas de prevencion y proteccion
+
+    # 2.2.Recomendaciones de como protegerse

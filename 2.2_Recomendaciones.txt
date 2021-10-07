@@ -1,0 +1,11 @@
+Recomendaciones
+
+    * Educar a las personas, a todas las personas.
+    * Analizar con antivirus todos los correos que se reciban.
+    * No informar telefónicamente de las características técnicas de la red, ni nombre de personal a cargo, etc.
+    * Control de acceso físico al lugar en donde se encuentran los documentos importantes de la compañía.
+    * Políticas de seguridad a nivel de sistema operativo.
+    * Conocer los procesos de ingeniería social, sus principios, sus técnicas, la manipulación y la explotación de los sentimientos y emociones de las personas.
+    * De está forma podremos anticiparnos a los riesgos de ataques.
+    * Trabajar en crear la cultura de cautela, desconfianza y prudencia ante todas las situaciones.
+    * Los atacantes que usan la ingeniería social prefieren cambiar de víctima cuando se enfrentan a la resistencia educada.
