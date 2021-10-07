@@ -1,0 +1,55 @@
+Qué es el pretexting?
+
+    * El pretexting es una forma de ingeniería social.
+    * Es la práctica de presentarse a uno mismo como otra persona con el fin de obtener información privada y privilegiada.
+    * Imitando ser otra persona (impresonation)
+    * En el pretexto le asigna al atacante le papel de alguien con autoridad que tiene derecho a acceder a la información que se busca, o que puede usar la información para ayudar a la víctima.
+
+Es ilegal?
+
+    * El pretexting es, en general, ilegal en los Estados Unidos.
+    * Para las instituciones financieras cubiertas por la Ley Gramm-Leach-Biley (GLBA) de 1999 -casi para todas las instituciones financieras-, es ilegal que cualquier persona obtenga, intente obtener, revele o haga revelar al cliente información de una institución financiera por medio de pretexting o engaños.
+    * Las instituciones reguladas por la GLBA también están obligadas a establecer normas para educar su propio personal, destinadas a identificar los intentos de pretexting
+
+Proceso de planificación
+
+    * Propósito:
+        * Crear un escenario inventado para persuadir al objetivo de modo que pueda proporcionar cierta información o de realizar alguna acción
+        * Típicamente se realizará una investigación previa para conocer el tipo de lenguaje y la tecnología empleada por la gente que administra los sistemas o que tiene acceso a la información requerida, entre otras.
+
+    * Preparación/Desarrollo
+        * Escribir un guión - plantilla
+        * Determinar el método
+
+            § Por teléfono
+            § Visitar el lugar varios días antes  a diferentes horas
+            § Tomar fotos
+            § Determinar el vestuario
+            § Higiene. Depende del pretexto
+            § Tener claras las metas del pretext.
+
+Elaborar Plan B, C , D…
+
+    *Práctica
+        * La clave del éxito del pretexting está en la práctica continua
+        * Frente a un espejo
+        * Con tu grupo de trabajo
+        * En role play
+        * Grabase en video
+        Ejecución
+        * Don’t be afraid to be great!
+
+Buenos pretextos
+
+    * Ser un contratista
+    * Entidades sin fines de lucro
+    * La entrevista (entrevistador, entrevistado)
+    * Encuestador
+    * Sorpresas
+    * Entrega de una orden
+    * El nuevo empleado
+    * Departamento de sistemas de IT
+    * El auditor
+    * La mamá/papá preocupados
+    * El anciano/a
+    * Otro…
