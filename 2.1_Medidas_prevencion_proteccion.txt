@@ -1,0 +1,32 @@
+Medidas de prevención y protección
+Debemos aceptar que:*
+
+    * La probabilidad que un ataque es alta
+    * Individualmente no servirán los controles:
+        ▪ Técnicos
+        ▪ Administrativos
+        ▪ Operacionales
+        ▪ De medio ambiente
+
+    * Aceptar que se necesita una combinación de principios:
+        ▪ Operacionales
+        ▪ Administrativos
+        ▪ Técnicos (lógicos)
+        ▪ Físicos (ambientales)
+
+    * Se recomienda utilizar lo siguiente:
+        ▪ Tecnología
+        ▪ Políticas
+        ▪ Educación
+        ▪ Educación
+        ▪ Divulgación
+        ▪ Entrenamiento
+
+    * Creando una cultura de seguridad
+        ▪ No se debe ignorar la interacción persona máquina
+        ▪ Necesitan reconocer los "trucos"
+        ▪ La seguridad de la información es un problema de hardware, software, firmware y peopleware
+        ▪ La mejor defesa: educación combinada con tecnología
+        ▪ Todos los clientes / empleados deben tener una actitud hacia la seguridad y cuestionar las cosas
+        ▪ Se deben tener procedimiento de respuesta a incidentes y equipos que mitiguen el daño si ocurre un ataque
+        ▪ Se debe notificar a los involucrados
