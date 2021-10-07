@@ -1,0 +1,7 @@
+Retos de los procesos:
+
+    * Estamos ante el abanico de nuevos ciberdelitos debido a la proliferación de los Deepfake. Ejemplo: Porno Venganzas.
+    * Determinar la autenticidad de la evidencia.
+    * Limitaciones en los software forenses actuales.
+
+Solución: La combinación de técnicas de investigación forense tradicional y tecnología de inteligencia artificial.

@@ -45,3 +45,5 @@ Introduccion a los principios de la Ingenieria Social
     # 1.8.Que son los Deepfake y sus tipos
 
     # 1.9.Relacion del Deepfake, la ingenieria social y como detectarlos.
+
+    #2.0.Retos de los procesos de investigacion forense en Deepfake
