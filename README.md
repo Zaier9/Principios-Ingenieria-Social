@@ -43,3 +43,5 @@ Introduccion a los principios de la Ingenieria Social
     # 1.7.Que es el Pretexting y cual es su proceso
 
     # 1.8.Que son los Deepfake y sus tipos
+
+    # 1.9.Relacion del Deepfake, la ingenieria social y como detectarlos.

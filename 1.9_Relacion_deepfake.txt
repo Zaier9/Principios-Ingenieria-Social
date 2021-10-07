@@ -1,0 +1,32 @@
+Por qué debería preocuparnos el Deepfake?
+
+    * Las noticias falsas se extienden mucho más rápido que las verdaderas y tienen un 70% más de posibilidades de ser replicadas
+    * Sólo el 2% de los jóvenes puede identificar las "fake news"
+    https://literacytrust.org.uk/news/only-2-uk-children-have-critical-literacy-skills-they-need-tell-if-news-real-or-fake/
+    * Kaspersky y CORPA, dentro de la campaña Iceberg Digital, detalla, quienes son los países que menos logran identificar un fake news el primer lugar lo tienen los peruanos con un 79%, seguidos por los colombianos 73% y chilenos 70%.
+    * Detrás se encuentran los argentinos y mexicanos con 66%, y finalmente los brasileños con 62%
+    https://latam.kaspersky.com/blog/70-de-los-latinoamericanos-desconoce-como-detectar-una-fake-news/17015/
+    * Garner recoge en su informe ‘Predicciones tecnológicas para el 2018’ que en 2022 la mayoría de los países occidentales consumirá más información falsa que noticias reales.
+
+Deepfake: la nueva ingeniería social
+
+Modificación en los tipos de ataques de IS utilizando IA?
+“El problema central con los Deepfakes de audio tiene que ver con capturar no solo el tono de la persona, sino también los gestos específicos del habla” - Nisos
+
+    * Los intentos de esta que usan grabaciones de voz manipuladas, o audio Deepfakes empiezan a ser comunes y por ende más casos de phishing.
+
+Cómo detectar el uso de Deepfake y como detenerlo
+Claves para identificarlos
+
+    * Movimiento NO natural de los ojos
+    * Expresiones faciales NO naturales
+    * Observar la posición de la nariz
+    * Falta de expresión y emoción
+    * Observar la postura del cuerpo
+    * Movimientos del cuerpo NO naturales
+    * Tono de la piel.
+    * Observar el cabello y movimientos
+    * Observar los dientes que no lucen naturales
+    * Inconsistencia en el audio y sonido del video
+    * Imágenes no parecen reales cuando se disminuye la velocidad del audio/video.
+    https://detectfakes.media.mit.edu/
